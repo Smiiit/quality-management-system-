@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quality-management-system/static/css/main.68991c64.css",
-    "main.js": "/quality-management-system/static/js/main.ed787bda.js",
+    "main.js": "/quality-management-system/static/js/main.dec7fc04.js",
     "static/js/186.7b6e0865.chunk.js": "/quality-management-system/static/js/186.7b6e0865.chunk.js",
     "static/js/112.da61069a.chunk.js": "/quality-management-system/static/js/112.da61069a.chunk.js",
     "static/js/557.b6d74a7d.chunk.js": "/quality-management-system/static/js/557.b6d74a7d.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/_3b145d54-b060-4481-b328-28c5e4dab357.jfif": "/quality-management-system/static/media/_3b145d54-b060-4481-b328-28c5e4dab357.0b590ff525e607b47159.jfif",
     "index.html": "/quality-management-system/index.html",
     "main.68991c64.css.map": "/quality-management-system/static/css/main.68991c64.css.map",
-    "main.ed787bda.js.map": "/quality-management-system/static/js/main.ed787bda.js.map",
+    "main.dec7fc04.js.map": "/quality-management-system/static/js/main.dec7fc04.js.map",
     "186.7b6e0865.chunk.js.map": "/quality-management-system/static/js/186.7b6e0865.chunk.js.map",
     "112.da61069a.chunk.js.map": "/quality-management-system/static/js/112.da61069a.chunk.js.map",
     "557.b6d74a7d.chunk.js.map": "/quality-management-system/static/js/557.b6d74a7d.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.68991c64.css",
-    "static/js/main.ed787bda.js"
+    "static/js/main.dec7fc04.js"
   ]
 }
